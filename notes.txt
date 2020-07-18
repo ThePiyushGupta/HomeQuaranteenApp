@@ -1,0 +1,22 @@
+Contract tracing 
+
+Selfie upload
+
+GPS Tracking
+
+Registraion USER
+
+    Name 
+    Mobile phone  (UNIQUE ID) (Message ??)
+
+
+    address () + gps coordinates (HEALTH WORKER)
+    Date of positive result (HEALTH WORKER)
+    IF under quaranteen HEALTH WORKER ID 
+
+    HEALTH WORKER: (ID , PASSWORD, BACKEND)
+        positive person coordin
+        WHO IS positive
+        WHO TO SHIFT TO INSTITUTIONAL QUARANTEEN
+        VIEW PHOTO 
+        Remove home quaranteen
